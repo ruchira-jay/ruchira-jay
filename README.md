@@ -37,8 +37,7 @@ I'm a passionate Full Stack and Mobile Engineer based in Sri Lanka, building cle
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 
 ### Database & Cloud
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 ### Tools & Workflow
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
@@ -71,7 +70,7 @@ I'm a passionate Full Stack and Mobile Engineer based in Sri Lanka, building cle
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-@ruchira--jay-181717?style=for-the-badge&logo=github)](https://github.com/ruchira-jay)
-[![Email](https://img.shields.io/badge/Email-ruchira.jay@email.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruchira.jay@email.com)
+[![Email](https://img.shields.io/badge/Email-ruchira.jay@email.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ruchira.tamohara@gmail.com)
 
 </div>
 
